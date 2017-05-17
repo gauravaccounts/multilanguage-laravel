@@ -79,7 +79,7 @@
 <select onChange="window.location.href=this.value">
   <option value="en">English</option>
   <option value="fr">French</option>
-<!--   <option value="zh">Chinese</option> -->
+  <option value="zh">Chinese</option>
 </select>
                 </div>
             @endif
